@@ -2,7 +2,7 @@
 
 ## Описание
 
-Реализация макета <b>Comments.fig</b>.
+Реализация макета [<b>Comments.fig</b>](https://github.com/posadvladimir/comments/blob/main/Comments.fig). [Проект на GitHub Pages](https://posadvladimir.github.io/comments/).
 
 ## Используемые технологии
 
