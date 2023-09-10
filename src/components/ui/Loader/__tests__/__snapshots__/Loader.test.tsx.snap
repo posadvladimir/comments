@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader Component соотвествует снепшоту 1`] = `
+<div
+  className="sc-bcPKhP uEXKN"
+>
+  <div
+    className="sc-grXZZQ hkWoTP"
+    data-testid="loader-test-id"
+  />
+</div>
+`;
+
+exports[`Loader Component соотвествует снепшоту 2`] = `
+<div
+  className="sc-bcPKhP uEXKN"
+>
+  <div
+    className="sc-grXZZQ hkWoTP"
+    data-testid="loader-test-id"
+  />
+</div>
+`;
+
+exports[`Loader Component соотвествует снепшоту 3`] = `
+<div
+  className="sc-bcPKhP uEXKN"
+>
+  <div
+    className="sc-grXZZQ hfrGbl"
+    data-testid="loader-test-id"
+  />
+</div>
+`;

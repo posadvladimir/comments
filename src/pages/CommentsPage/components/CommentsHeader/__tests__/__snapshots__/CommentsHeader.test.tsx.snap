@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CommentsHeader соотвествует снепшоту 1`] = `
+<header
+  className="sc-grXZZQ krEezl"
+>
+  <span
+    className="sc-bcPKhP jtwZFa"
+  >
+    5 000
+     
+    комментариев
+  </span>
+  <div
+    className="sc-dkjKgF bbldwS"
+    data-testid="like-counter-test-id"
+  >
+    <button
+      className="sc-hLclGa deDrpk"
+      data-testid="like-counter-button-test-id"
+      disabled={true}
+      onClick={[Function]}
+    >
+      <img
+        alt="like icon"
+        className="sc-eDnVMP mhaLA"
+        src="grey-stroke.png"
+      />
+    </button>
+    <span
+      className="sc-jSwlEQ hgxKmw"
+      data-testid="like-counter-total-test-id"
+    >
+      1 000
+    </span>
+  </div>
+</header>
+`;

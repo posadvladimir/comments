@@ -1,0 +1,58 @@
+{
+    "name": "comments",
+    "version": "1.0.0",
+    "homepage": "https://posadvladimir.github.io/comments",
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "prettier": "prettier --write '*/**/*.{ts,tsx,js,jsx,css,scss,json}'",
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+    },
+    "dependencies": {
+        "@testing-library/jest-dom": "5.16.4",
+        "@testing-library/react": "13.3.0",
+        "@testing-library/user-event": "13.5.0",
+        "@types/jest": "27.5.2",
+        "@types/node": "16.11.41",
+        "@types/react": "18.0.14",
+        "@types/react-dom": "18.0.5",
+        "axios": "0.27.2",
+        "axios-mock-adapter": "1.20.0",
+        "gh-pages": "^6.0.0",
+        "jest-styled-components": "^7.1.1",
+        "prettier": "2.3.2",
+        "react": "18.2.0",
+        "react-dom": "18.2.0",
+        "react-query": "^3.39.3",
+        "react-scripts": "5.0.1",
+        "react-test-renderer": "^18.2.0",
+        "styled-components": "^6.0.7",
+        "typescript": "4.7.4",
+        "uuid": "^9.0.0"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    },
+    "devDependencies": {
+        "@types/react-test-renderer": "^18.0.0",
+        "@types/uuid": "^9.0.3",
+        "jest-date-mock": "^1.0.8"
+    }
+}

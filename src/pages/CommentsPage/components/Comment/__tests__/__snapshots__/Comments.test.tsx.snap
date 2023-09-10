@@ -1,0 +1,309 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Компонент Comment соотвествует снепшоту 1`] = `
+.c4 {
+  line-height: 22px;
+  font-weight: 700;
+}
+
+.c0 {
+  margin-top: 32px;
+}
+
+.c1 {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.c2 {
+  object-fit: cover;
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.c3 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 12.5px 0;
+}
+
+.c5 {
+  color: #8297AB;
+}
+
+.c10 {
+  margin-left: 88px;
+  word-wrap: break-word;
+}
+
+.c6 {
+  display: flex;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.c7 {
+  cursor: pointer;
+}
+
+.c7[disabled] {
+  cursor: auto;
+}
+
+.c8 {
+  width: 22px;
+  height: 22px;
+}
+
+.c9 {
+  margin-left: 8px;
+}
+
+@media (max-width: 430px) {
+  .c0 {
+    margin-top: 24px;
+  }
+}
+
+@media (max-width: 430px) {
+  .c2 {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 430px) {
+  .c3 {
+    margin: 0;
+  }
+}
+
+@media (max-width: 430px) {
+  .c10 {
+    margin-top: 8px;
+    margin-left: 60px;
+  }
+}
+
+@media (max-width: 430px) {
+  .c6 {
+    font-size: inherit;
+  }
+}
+
+<div
+  className="c0"
+  data-testid="comment-test-id"
+>
+  <div
+    className="c1"
+  >
+    <img
+      alt="author avatar"
+      className="c2"
+      src="han-solo.jpg"
+    />
+    <div
+      className="c3"
+    >
+      <span
+        className="c4"
+      >
+        Han Solo
+      </span>
+      <span
+        className="c5"
+      >
+        3 часа назад
+      </span>
+    </div>
+    <div
+      className="c6"
+      data-testid="like-counter-test-id"
+    >
+      <button
+        className="c7"
+        data-testid="like-counter-button-test-id"
+        onClick={[Function]}
+      >
+        <img
+          alt="like icon"
+          className="c8"
+          src="red-stroke.png"
+        />
+      </button>
+      <span
+        className="c9"
+        data-testid="like-counter-total-test-id"
+      >
+        10
+      </span>
+    </div>
+  </div>
+  <p
+    className="c10"
+  >
+    Piu piu
+  </p>
+</div>
+`;
+
+exports[`Компонент Comment соотвествует снепшоту 2`] = `
+.c4 {
+  line-height: 22px;
+  font-weight: 700;
+}
+
+.c0 {
+  margin-top: 32px;
+  margin-left: 34px;
+}
+
+.c1 {
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+
+.c2 {
+  object-fit: cover;
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.c3 {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  margin: 12.5px 0;
+}
+
+.c5 {
+  color: #8297AB;
+}
+
+.c10 {
+  margin-left: 88px;
+  word-wrap: break-word;
+}
+
+.c6 {
+  display: flex;
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 150%;
+}
+
+.c7 {
+  cursor: pointer;
+}
+
+.c7[disabled] {
+  cursor: auto;
+}
+
+.c8 {
+  width: 22px;
+  height: 22px;
+}
+
+.c9 {
+  margin-left: 8px;
+}
+
+@media (max-width: 430px) {
+  .c0 {
+    margin-top: 24px;
+    margin-left: 20px;
+  }
+}
+
+@media (max-width: 430px) {
+  .c2 {
+    width: 40px;
+    height: 40px;
+  }
+}
+
+@media (max-width: 430px) {
+  .c3 {
+    margin: 0;
+  }
+}
+
+@media (max-width: 430px) {
+  .c10 {
+    margin-top: 8px;
+    margin-left: 60px;
+  }
+}
+
+@media (max-width: 430px) {
+  .c6 {
+    font-size: inherit;
+  }
+}
+
+<div
+  className="c0"
+  data-testid="comment-test-id"
+>
+  <div
+    className="c1"
+  >
+    <img
+      alt="author avatar"
+      className="c2"
+      src="han-solo.jpg"
+    />
+    <div
+      className="c3"
+    >
+      <span
+        className="c4"
+      >
+        Han Solo
+      </span>
+      <span
+        className="c5"
+      >
+        3 часа назад
+      </span>
+    </div>
+    <div
+      className="c6"
+      data-testid="like-counter-test-id"
+    >
+      <button
+        className="c7"
+        data-testid="like-counter-button-test-id"
+        onClick={[Function]}
+      >
+        <img
+          alt="like icon"
+          className="c8"
+          src="red-stroke.png"
+        />
+      </button>
+      <span
+        className="c9"
+        data-testid="like-counter-total-test-id"
+      >
+        10
+      </span>
+    </div>
+  </div>
+  <p
+    className="c10"
+  >
+    Piu piu
+  </p>
+</div>
+`;

@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LikeCounter соотвествует снепшоту 1`] = `
+<div
+  className="sc-bcPKhP jPNrFD"
+  data-testid="like-counter-test-id"
+>
+  <button
+    className="sc-grXZZQ gdqHVB"
+    data-testid="like-counter-button-test-id"
+    disabled={false}
+    onClick={[Function]}
+  >
+    <img
+      alt="like icon"
+      className="sc-dkjKgF gPDvA-D"
+      src="grey-stroke.png"
+    />
+  </button>
+  <span
+    className="sc-hLclGa dtULLj"
+    data-testid="like-counter-total-test-id"
+  >
+    1 234
+  </span>
+</div>
+`;
+
+exports[`LikeCounter соотвествует снепшоту 2`] = `
+<div
+  className="sc-bcPKhP jPNrFD"
+  data-testid="like-counter-test-id"
+>
+  <button
+    className="sc-grXZZQ gdqHVB"
+    data-testid="like-counter-button-test-id"
+    disabled={false}
+    onClick={[Function]}
+  >
+    <img
+      alt="like icon"
+      className="sc-dkjKgF gPDvA-D"
+      src="red-stroke.png"
+    />
+  </button>
+  <span
+    className="sc-hLclGa dtULLj"
+    data-testid="like-counter-total-test-id"
+  >
+    1 234
+  </span>
+</div>
+`;
+
+exports[`LikeCounter соотвествует снепшоту 3`] = `
+<div
+  className="sc-bcPKhP jPNrFD"
+  data-testid="like-counter-test-id"
+>
+  <button
+    className="sc-grXZZQ gdqHVB"
+    data-testid="like-counter-button-test-id"
+    disabled={false}
+    onClick={[Function]}
+  >
+    <img
+      alt="like icon"
+      className="sc-dkjKgF gPDvA-D"
+      src="full-red.png"
+    />
+  </button>
+  <span
+    className="sc-hLclGa dtULLj"
+    data-testid="like-counter-total-test-id"
+  >
+    1 234
+  </span>
+</div>
+`;

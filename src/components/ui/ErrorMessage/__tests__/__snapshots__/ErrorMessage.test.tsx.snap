@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ErrorMessage соотвествует снепшоту 1`] = `
+<div
+  className="sc-bcPKhP gFqXVc"
+  data-testid="error-test-id"
+>
+  Произошла ошибка при загрузке данных
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`QCProvider соотвествует снепшоту 1`] = `
+<div>
+  Test Child
+</div>
+`;
+
+exports[`SCThemeProvider соотвествует снепшоту 1`] = `
+<div>
+  Test Child
+</div>
+`;

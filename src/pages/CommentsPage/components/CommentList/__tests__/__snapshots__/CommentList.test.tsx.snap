@@ -1,0 +1,171 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Компонент Comment соотвествует снепшоту 1`] = `
+Array [
+  <div
+    className="sc-grXZZQ bVYjzh"
+    data-testid="comment-test-id"
+  >
+    <div
+      className="sc-dkjKgF gkIFfb"
+    >
+      <img
+        alt="author avatar"
+        className="sc-hLclGa gHpfka"
+        src="han-solo.jpg"
+      />
+      <div
+        className="sc-eDnVMP lgZzqD"
+      >
+        <span
+          className="sc-bcPKhP jtwZFa"
+        >
+          Han Solo
+        </span>
+        <span
+          className="sc-jSwlEQ cRyZix"
+        >
+          2 часа назад
+        </span>
+      </div>
+      <div
+        className="sc-iBAaJG bpbcyD"
+        data-testid="like-counter-test-id"
+      >
+        <button
+          className="sc-ftLKQv hnFVgX"
+          data-testid="like-counter-button-test-id"
+          onClick={[Function]}
+        >
+          <img
+            alt="like icon"
+            className="sc-pqitP fwnPig"
+            src="red-stroke.png"
+          />
+        </button>
+        <span
+          className="sc-jrkPcm cQvrov"
+          data-testid="like-counter-total-test-id"
+        >
+          5
+        </span>
+      </div>
+    </div>
+    <p
+      className="sc-gKHVLF fNJWzz"
+    >
+      Piu piu
+    </p>
+  </div>,
+  <div
+    className="sc-grXZZQ SEcdY"
+    data-testid="comment-test-id"
+  >
+    <div
+      className="sc-dkjKgF gkIFfb"
+    >
+      <img
+        alt="author avatar"
+        className="sc-hLclGa gHpfka"
+        src="yoda.jpg"
+      />
+      <div
+        className="sc-eDnVMP lgZzqD"
+      >
+        <span
+          className="sc-bcPKhP jtwZFa"
+        >
+          Yoda
+        </span>
+        <span
+          className="sc-jSwlEQ cRyZix"
+        >
+          1 час назад
+        </span>
+      </div>
+      <div
+        className="sc-iBAaJG bpbcyD"
+        data-testid="like-counter-test-id"
+      >
+        <button
+          className="sc-ftLKQv hnFVgX"
+          data-testid="like-counter-button-test-id"
+          onClick={[Function]}
+        >
+          <img
+            alt="like icon"
+            className="sc-pqitP fwnPig"
+            src="red-stroke.png"
+          />
+        </button>
+        <span
+          className="sc-jrkPcm cQvrov"
+          data-testid="like-counter-total-test-id"
+        >
+          15
+        </span>
+      </div>
+    </div>
+    <p
+      className="sc-gKHVLF fNJWzz"
+    >
+      Noo
+    </p>
+  </div>,
+  <div
+    className="sc-grXZZQ bVYjzh"
+    data-testid="comment-test-id"
+  >
+    <div
+      className="sc-dkjKgF gkIFfb"
+    >
+      <img
+        alt="author avatar"
+        className="sc-hLclGa gHpfka"
+        src="dart-hwader.jpg"
+      />
+      <div
+        className="sc-eDnVMP lgZzqD"
+      >
+        <span
+          className="sc-bcPKhP jtwZFa"
+        >
+          Darth Wader
+        </span>
+        <span
+          className="sc-jSwlEQ cRyZix"
+        >
+          3 чаcа назад
+        </span>
+      </div>
+      <div
+        className="sc-iBAaJG bpbcyD"
+        data-testid="like-counter-test-id"
+      >
+        <button
+          className="sc-ftLKQv hnFVgX"
+          data-testid="like-counter-button-test-id"
+          onClick={[Function]}
+        >
+          <img
+            alt="like icon"
+            className="sc-pqitP fwnPig"
+            src="red-stroke.png"
+          />
+        </button>
+        <span
+          className="sc-jrkPcm cQvrov"
+          data-testid="like-counter-total-test-id"
+        >
+          115
+        </span>
+      </div>
+    </div>
+    <p
+      className="sc-gKHVLF fNJWzz"
+    >
+      Ok
+    </p>
+  </div>,
+]
+`;
