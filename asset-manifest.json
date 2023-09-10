@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/comments/static/css/main.31d6cfe0.css",
+    "main.js": "/comments/static/js/main.e0d32b78.js",
+    "static/media/background.jpeg": "/comments/static/media/background.d80c19e38ca304e892c7.jpeg",
+    "static/media/han-solo.jpg": "/comments/static/media/han-solo.84705bac66e252072c67.jpg",
+    "index.html": "/comments/index.html",
+    "main.e0d32b78.js.map": "/comments/static/js/main.e0d32b78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.e0d32b78.js"
+  ]
+}
